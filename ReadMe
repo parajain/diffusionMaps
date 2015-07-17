@@ -1,0 +1,4 @@
+Diffusion Maps implementation in matlab
+Paper: http://www.sciencedirect.com/science/article/pii/S1063520306000546
+
+dmaps.m : main function
